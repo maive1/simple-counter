@@ -1,0 +1,13 @@
+.counter {
+    background-image: radial-gradient(grey, black);  
+    width: 1000px;
+    height: 150px;      
+    border-radius: 10px;  
+}
+.box {
+    background-image: linear-gradient(black, grey, black);
+    height: 80%;
+    border-radius: 10px;
+    font-size: 60px; 
+    color: white
+}
